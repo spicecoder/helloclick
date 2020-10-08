@@ -9,7 +9,7 @@ import './App.css';
  
    const sayHello = (e) => { e.preventDefault();
       
-   props.passdata(e.target.innerHTML);
+   props.passnavigationdata(e.target.innerHTML);
  
 
 
